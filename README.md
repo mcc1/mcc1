@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is my profile for testing XD...
+- 🔭 I’m currently working on embed linux and backend website
+- 🌱 I’m currently learning python
 
 <!--
 **mcc1/mcc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
